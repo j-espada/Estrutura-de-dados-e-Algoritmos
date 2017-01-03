@@ -1,2 +1,3 @@
 # Estrutura-de-dados-e-Algoritmos
-3
+
+Neste rep encontram-se diversos algortimos de ordenação, grafos e estruturas de dados.
